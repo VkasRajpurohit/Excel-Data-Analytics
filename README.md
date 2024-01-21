@@ -4,7 +4,8 @@ Sales, Finance & Hotel Business Report
 
 💻 Tech Stack:
 --
-![Static Badge](https://img.shields.io/badge/Excel-Green) ![Static Badge](https://img.shields.io/badge/DAX-blue)
+![Excel](https://img.shields.io/badge/-Excel-g?logo=microsoftexcel&labelColor=2a9134&color=2a9134)
+![Static Badge](https://img.shields.io/badge/DAX-blue)
 ![Static Badge](https://img.shields.io/badge/ETL-orange) ![Static Badge](https://img.shields.io/badge/Power%20Query-yellow)
 ![Static Badge](https://img.shields.io/badge/Power%20Pivot-asd?labelColor=%236994c3&color=%23a62f7e)
 
